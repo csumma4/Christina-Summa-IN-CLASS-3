@@ -1,0 +1,30 @@
+/* Counter.css */
+.counter-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .counter-box {
+    display: inline-block;
+    border: 2px solid #000; /* Border styling */
+    padding: 10px; /* Padding around the counter value */
+  }
+  
+  .counter-value {
+    font-size: 24px;
+    margin: 0; /* Remove margin for the counter value */
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  button {
+    font-size: 18px;
+    margin: 0 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }  
+  
